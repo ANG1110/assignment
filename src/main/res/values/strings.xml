@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">assignment</string>
+    <string name="add_to_cart">ADD TO CART</string>
+    <string name="product_discription">product discription</string>
+    <string name="discription">Discription</string>
+    <string name="size">Size</string>
+    <string name="rmxxx">RMxxx</string>
+    <string name="product_name">Product Name</string>
+</resources>
